@@ -1,4 +1,4 @@
-***AWS Api Gateway Stages Video Links:***
+***AWS Api Gateway Stages Video Links:***  https://www.youtube.com/playlist?list=PL9SCFf2XVh6hL6oJCoe2QcMC-i8vjg3EY
 
 1. Creating an EC2 instance and run Java Spring Boot Microservice application on that : https://youtu.be/AH6ud28aYuw
 2. Creating Target Group and Application Load Balancer: https://youtu.be/I9kzVchhDIE
